@@ -1,23 +1,23 @@
 <img src="assets/banner.svg" alt="Methuli Heenkenda: AI & ML, agentic systems, full-stack" width="100%">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/methuli-heenkenda-6019473b1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:methuli.thinara@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge" alt="Open to internships">
+  <a href="https://www.linkedin.com/in/methuli-heenkenda-6019473b1"><img src="https://img.shields.io/badge/linkedin-connect-7a2430?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:methuli.thinara@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-c4343f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/open%20to-internships-ff6a6a?style=flat-square" alt="Open to internships">
 </p>
 
 Second-year **AI & Data Science** undergrad at IIT (with Robert Gordon University, UK) in Colombo. I build agentic AI, ML pipelines and full-stack apps, usually for problems close to home: farmers, dementia carers, car buyers, and low-resource languages. Currently looking for a **software or AI engineering internship**.
 
 ---
 
-## 🏆 Highlights
+## `[01]` highlights
 
 - 🥇 **Top 12 Finalist, WiE HackElite** (University of Moratuwa) for GoviHitha
 - 🎯 **Finalist, J'Extreme** (University of Sri Jayewardenepura)
 - 🚀 **Cursor Buildathon**: Recall, a voice AI companion for dementia patients, drew interest from a venture capital firm
 - 💼 Freelance engineer shipping real client apps (QR-code attendance app for the Institute of Valuers of Sri Lanka, delivered as an Android APK)
 
-## 🚀 Featured projects
+## `[02]` featured projects
 
 <table>
   <tr>
@@ -61,29 +61,31 @@ Second-year **AI & Data Science** undergrad at IIT (with Robert Gordon Universit
 
 More: [figma-fit](https://github.com/methuliH/figma-fit) (MCP server that keeps Figma data inside your token budget) · [physarum-bloom-simulation](https://github.com/methuliH/physarum-bloom-simulation) (slime-mold agents that grow flowers) · [little-dude](https://github.com/methuliH/little-dude) (a tiny AI buddy that lives on your Windows desktop)
 
-## 🧰 Toolbox
+## `[03]` toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2a0d12?style=flat-square&logo=python&logoColor=ff6a6a)
+![TypeScript](https://img.shields.io/badge/TypeScript-2a0d12?style=flat-square&logo=typescript&logoColor=ff6a6a)
+![Go](https://img.shields.io/badge/Go-2a0d12?style=flat-square&logo=go&logoColor=ff6a6a)
+![Java](https://img.shields.io/badge/Java-2a0d12?style=flat-square&logo=openjdk&logoColor=ff6a6a)
+![R](https://img.shields.io/badge/R-2a0d12?style=flat-square&logo=r&logoColor=ff6a6a)
+![FastAPI](https://img.shields.io/badge/FastAPI-2a0d12?style=flat-square&logo=fastapi&logoColor=ff6a6a)
+![Next.js](https://img.shields.io/badge/Next.js-2a0d12?style=flat-square&logo=nextdotjs&logoColor=ff6a6a)
+![React Native](https://img.shields.io/badge/React_Native-2a0d12?style=flat-square&logo=react&logoColor=ff6a6a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2a0d12?style=flat-square&logo=postgresql&logoColor=ff6a6a)
+![MongoDB](https://img.shields.io/badge/MongoDB-2a0d12?style=flat-square&logo=mongodb&logoColor=ff6a6a)
+![Docker](https://img.shields.io/badge/Docker-2a0d12?style=flat-square&logo=docker&logoColor=ff6a6a)
+![Figma](https://img.shields.io/badge/Figma-2a0d12?style=flat-square&logo=figma&logoColor=ff6a6a)
 
 **AI/ML:** Google ADK · Gemini · Claude API · MCP · LiveKit · XGBoost · SHAP · pandas · NumPy
 
-## 🌱 Right now
+## `[04]` right now
 - 🔭 Exploring how language models represent Sinhala and Tamil
 - 🛠️ Freelance work: a web-based Ayurvedic plant reference for a client
 - 🎤 Vice President PR at IIT Toastmasters, Event Director at the Mozilla Campus Club
 
-## 🎻 Off the keyboard
+## `[05]` off the keyboard
 First violinist with the National Youth Orchestra of Sri Lanka, and I like making slime mold grow flowers in code.
+
+<img src="assets/footer.svg" alt="" width="100%">
 
 <p align="center"><sub>Colombo, Sri Lanka · <a href="mailto:methuli.thinara@gmail.com">methuli.thinara@gmail.com</a></sub></p>
