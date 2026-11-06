@@ -17,7 +17,6 @@ Second-year **AI & Data Science** undergraduate at the Informatics Institute of 
 | [figma-fit](https://github.com/methuliH/figma-fit) | MCP server that returns Figma data within your token budget |
 
 ## What I'm doing now
-- Leading R&D for adaptive practice features on **LearnSteer 2.0** at Sasnaka Sansada Foundation (Go, pyBKT, Strapi 5).
 - Freelance software engineering, including a QR-code attendance app for the Institute of Valuers of Sri Lanka.
 - Exploring multilingual interpretability for Sinhala and Tamil.
 
