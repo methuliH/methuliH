@@ -1,9 +1,9 @@
-<img src="assets/banner-ascii.svg" alt="Methuli Heenkenda: AI & ML, agentic systems, full-stack" width="100%">
+<img src="assets/banner-dither.svg" alt="Methuli Heenkenda: AI & ML, agentic systems, full-stack" width="100%">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/methuli-heenkenda-6019473b1"><img src="https://img.shields.io/badge/linkedin-connect-7a2430?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:methuli.thinara@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-c4343f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/open%20to-internships-ff6a6a?style=flat-square" alt="Open to internships">
+  <a href="https://www.linkedin.com/in/methuli-heenkenda-6019473b1"><img src="https://img.shields.io/badge/linkedin-connect-1f1f1f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:methuli.thinara@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-3a3a3a?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/open%20to-internships-f2f2f2?style=flat-square&labelColor=1f1f1f" alt="Open to internships">
 </p>
 
 Second-year **AI & Data Science** undergrad at IIT (with Robert Gordon University, UK) in Colombo. I build agentic AI, ML pipelines and full-stack apps, usually for problems close to home: farmers, dementia carers, car buyers, and low-resource languages. Currently looking for a **software or AI engineering internship**.
@@ -63,18 +63,18 @@ More: [figma-fit](https://github.com/methuliH/figma-fit) (MCP server that keeps 
 
 ## `[03]` toolbox
 
-![Python](https://img.shields.io/badge/Python-2a0d12?style=flat-square&logo=python&logoColor=ff6a6a)
-![TypeScript](https://img.shields.io/badge/TypeScript-2a0d12?style=flat-square&logo=typescript&logoColor=ff6a6a)
-![Go](https://img.shields.io/badge/Go-2a0d12?style=flat-square&logo=go&logoColor=ff6a6a)
-![Java](https://img.shields.io/badge/Java-2a0d12?style=flat-square&logo=openjdk&logoColor=ff6a6a)
-![R](https://img.shields.io/badge/R-2a0d12?style=flat-square&logo=r&logoColor=ff6a6a)
-![FastAPI](https://img.shields.io/badge/FastAPI-2a0d12?style=flat-square&logo=fastapi&logoColor=ff6a6a)
-![Next.js](https://img.shields.io/badge/Next.js-2a0d12?style=flat-square&logo=nextdotjs&logoColor=ff6a6a)
-![React Native](https://img.shields.io/badge/React_Native-2a0d12?style=flat-square&logo=react&logoColor=ff6a6a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2a0d12?style=flat-square&logo=postgresql&logoColor=ff6a6a)
-![MongoDB](https://img.shields.io/badge/MongoDB-2a0d12?style=flat-square&logo=mongodb&logoColor=ff6a6a)
-![Docker](https://img.shields.io/badge/Docker-2a0d12?style=flat-square&logo=docker&logoColor=ff6a6a)
-![Figma](https://img.shields.io/badge/Figma-2a0d12?style=flat-square&logo=figma&logoColor=ff6a6a)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=f2f2f2)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=f2f2f2)
+![Go](https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logo=go&logoColor=f2f2f2)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=f2f2f2)
+![R](https://img.shields.io/badge/R-1a1a1a?style=flat-square&logo=r&logoColor=f2f2f2)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=f2f2f2)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=f2f2f2)
+![React Native](https://img.shields.io/badge/React_Native-1a1a1a?style=flat-square&logo=react&logoColor=f2f2f2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=f2f2f2)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=f2f2f2)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=f2f2f2)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=f2f2f2)
 
 **AI/ML:** Google ADK · Gemini · Claude API · MCP · LiveKit · XGBoost · SHAP · pandas · NumPy
 
@@ -86,6 +86,6 @@ More: [figma-fit](https://github.com/methuliH/figma-fit) (MCP server that keeps 
 ## `[05]` off the keyboard
 First violinist with the National Youth Orchestra of Sri Lanka, and I like making slime mold grow flowers in code.
 
-<img src="assets/footer-ascii.svg" alt="" width="100%">
+<img src="assets/footer-dither.svg" alt="" width="100%">
 
 <p align="center"><sub>Colombo, Sri Lanka · <a href="mailto:methuli.thinara@gmail.com">methuli.thinara@gmail.com</a></sub></p>
