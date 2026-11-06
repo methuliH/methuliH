@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Methuli Heenkenda: AI & ML, agentic systems, full-stack" width="100%">
+<img src="assets/banner-ascii.svg" alt="Methuli Heenkenda: AI & ML, agentic systems, full-stack" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/methuli-heenkenda-6019473b1"><img src="https://img.shields.io/badge/linkedin-connect-7a2430?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -86,6 +86,6 @@ More: [figma-fit](https://github.com/methuliH/figma-fit) (MCP server that keeps 
 ## `[05]` off the keyboard
 First violinist with the National Youth Orchestra of Sri Lanka, and I like making slime mold grow flowers in code.
 
-<img src="assets/footer.svg" alt="" width="100%">
+<img src="assets/footer-ascii.svg" alt="" width="100%">
 
 <p align="center"><sub>Colombo, Sri Lanka · <a href="mailto:methuli.thinara@gmail.com">methuli.thinara@gmail.com</a></sub></p>
