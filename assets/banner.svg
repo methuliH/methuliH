@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Methuli Heenkenda, AI and ML engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#151a38"/>
+    </linearGradient>
+    <linearGradient id="vein" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f6c744"/>
+      <stop offset="0.5" stop-color="#ff8a5c"/>
+      <stop offset="1" stop-color="#c77dff"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .flow { stroke-dasharray: 14 10; animation: flow 6s linear infinite; }
+      .flow.slow { animation-duration: 11s; }
+      .node { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .n2 { animation-delay: .8s } .n3 { animation-delay: 1.6s } .n4 { animation-delay: 2.4s }
+      @keyframes flow { to { stroke-dashoffset: -240; } }
+      @keyframes pulse { 0%,100% { transform: scale(1); opacity:.7 } 50% { transform: scale(1.6); opacity:1 } }
+      .name { font: 700 58px 'Segoe UI', system-ui, sans-serif; fill: #fff; }
+      .tag { font: 400 24px 'Segoe UI', system-ui, sans-serif; fill: #c9d1ff; }
+      .sub { font: 400 17px 'Courier New', monospace; fill: #f6c744; }
+      @media (prefers-reduced-motion: reduce) { .flow, .node { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <!-- slime-mold style network -->
+  <g fill="none" stroke="url(#vein)" stroke-linecap="round" filter="url(#glow)" opacity=".85">
+    <path class="flow" stroke-width="3" d="M700 160 C 780 100, 860 210, 960 140 S 1100 90, 1180 150"/>
+    <path class="flow slow" stroke-width="2.4" d="M700 160 C 760 230, 850 260, 940 230 S 1070 250, 1150 220"/>
+    <path class="flow" stroke-width="2" d="M960 140 C 990 80, 1040 50, 1110 40"/>
+    <path class="flow slow" stroke-width="2" d="M940 230 C 920 280, 960 300, 1020 305"/>
+    <path class="flow" stroke-width="1.8" d="M780 112 C 760 60, 800 30, 860 20"/>
+    <path class="flow slow" stroke-width="1.8" d="M860 200 C 880 170, 900 180, 960 140"/>
+    <path class="flow" stroke-width="1.6" d="M1040 120 C 1070 170, 1090 190, 1100 210"/>
+  </g>
+  <g fill="#f6c744" filter="url(#glow)">
+    <circle class="node" cx="700" cy="160" r="7"/>
+    <circle class="node n2" cx="960" cy="140" r="6"/>
+    <circle class="node n3" cx="940" cy="230" r="5"/>
+    <circle class="node n4" cx="1110" cy="40" r="5"/>
+    <circle class="node n2" cx="1180" cy="150" r="5"/>
+    <circle class="node n3" cx="860" cy="20" r="4"/>
+    <circle class="node" cx="1150" cy="220" r="4"/>
+  </g>
+  <text class="name" x="60" y="140">Methuli Heenkenda</text>
+  <text class="tag" x="62" y="188">AI &amp; ML · agentic systems · full-stack</text>
+  <text class="sub" x="62" y="236">&gt; building AI that solves real problems in Sri Lanka_</text>
+</svg>
